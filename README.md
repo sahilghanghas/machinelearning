@@ -1,3 +1,3 @@
 # machinelearning
 
-Implementation of supervised learning and unsupervised learning models.
+Implementation of supervised and unsupervised learning models.
